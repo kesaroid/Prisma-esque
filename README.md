@@ -6,6 +6,11 @@ Input Image:
 ![input_image](https://i.imgur.com/zCKOYAh.jpg "input")
 
 
+Style Image:
+
+![style_image](https://i.imgur.com/poqTfsm.jpg "style")
+
+
 Output Image:
 
 ![output_image](https://i.imgur.com/WgQgVzj.jpg "output")
