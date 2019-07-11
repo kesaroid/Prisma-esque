@@ -8,7 +8,7 @@ Input Image:
 
 Style Image:
 
-![style_image](https://i.imgur.com/yhIFkkZ.jpg "style")
+![style_image](https://i.imgur.com/hSBcIqd.jpg "style")
 
 
 Output Image:
